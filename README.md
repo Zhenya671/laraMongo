@@ -3,6 +3,7 @@
     docker-compose up -d
     docker exec -it app bash
     composer install && composer require jenssegers/mongodb
+    php artisan key:generate
     change config/database.php
 
                 'default' => env('DB_CONNECTION', 'mongodb'),
