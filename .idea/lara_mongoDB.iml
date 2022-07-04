@@ -8,6 +8,12 @@
       <sourceFolder url="file://$MODULE_DIR$/src/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
       <sourceFolder url="file://$MODULE_DIR$/src/tests" isTestSource="true" packagePrefix="Tests\" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/laragraph/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/haydenpierce/class-finder" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/webonyx/graphql-php" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/thecodingmachine/safe" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nuwave/lighthouse" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/mll-lab/laravel-graphql-playground" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
